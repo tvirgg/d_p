@@ -1,0 +1,18 @@
+.achievement-card {
+  background-color: #1e1e1e;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #ffffff;
+}
+.reward {
+  font-size: 20px;
+  font-weight: bold;
+}
+.achievement-info {
+  margin-top: 10px;
+  text-align: center;
+}
